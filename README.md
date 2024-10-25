@@ -2,7 +2,7 @@
 
 A simple todo application built with React, and Motoko, utilizing ic-reactor by B3hr4d for seamless frontend-backend integration on the Internet Computer.
 
-![App Screenshot](/home/bahamin/Todo-App-IC/src/assets/samp.png)
+![App Screenshot](/src/assets/samp.png)
 
 ### Get started directly in your browser:
 
