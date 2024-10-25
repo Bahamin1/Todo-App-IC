@@ -56,13 +56,6 @@ When ready, run `dfx deploy --network ic` to deploy your application to the Inte
 - Install a Motoko package by running `npx ic-mops add <package-name>`. Here is a [list of available packages](https://mops.one/).
 - Split your frontend and backend console output by running `npm run frontend` and `npm run backend` in separate terminals.
 
-## 🚀 Features
-
-- Create, read, update, and delete todo items
-- Mark todos as complete or incomplete
-- Filter todos by status (all, active, completed)
-- Persist todos on the Internet Computer blockchain
-- Responsive design for mobile and desktop
 
 ## 🤝 Contributing
 
