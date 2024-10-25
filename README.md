@@ -1,6 +1,6 @@
 # React + Motoko Todo App
 
-A simple todo application built with React, and Motoko, utilizing ic-reactor by B3hr4d for seamless frontend-backend integration on the Internet Computer.
+A simple todo application built with React, and Motoko, utilizing ic-reactor by [B3hr4d](https://github.com/B3hr4d) for seamless frontend-backend integration on the Internet Computer.
 
 ![App Screenshot](/src/assets/samp.png)
 
@@ -75,6 +75,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 🙏 Acknowledgements
 
-- [DFINITY Foundation](https://dfinity.org/) for creating the Internet Computer
 - [B3hr4d](https://github.com/B3hr4d) for developing ic-reactor
-- The Motoko and Internet Computer community for their continuous support and contributions
