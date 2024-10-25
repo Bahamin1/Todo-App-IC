@@ -66,10 +66,6 @@ When ready, run `dfx deploy --network ic` to deploy your application to the Inte
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Bahamin1/todo-app-ic/issues) if you want to contribute.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👤 Author
 
 - GitHub: [@Bahamin](https://github.com/Bahamin1)
