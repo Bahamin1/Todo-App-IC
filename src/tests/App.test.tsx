@@ -1,8 +1,8 @@
+import { ActorProvider, AgentProvider } from '@ic-reactor/react';
 import { render } from '@testing-library/react';
+import { StrictMode } from 'react';
 import { describe, expect, it } from 'vitest';
 import App from '../App';
-import { StrictMode } from 'react';
-import { ActorProvider, AgentProvider } from '@ic-reactor/react';
 import { canisterId, idlFactory } from '../declarations/backend';
 
 describe('App', () => {
